@@ -3,4 +3,5 @@ Lightweight external datamodel dissector made in C++
 Uses windows RPM calls for mem reading, I dont have any intentions of going kernel at the moment.
 
 # credits
-robloxoffsets.com for providing offsets
+robloxoffsets.com for offsets
+carlgwastaken for window
