@@ -1,6 +1,6 @@
 # RoExplorer
-Lightweight external DataModel dissector made in C++.
-Uses Windows RPM calls for memory reading. Probably is detected. Only used it for learning purposes.
+Lightweight external DataModel explorer.
+
 **USE AT YOUR OWN RISK!**
 ![RoExplorer Screenshot](explorer.png)
 
